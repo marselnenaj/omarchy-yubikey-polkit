@@ -1,12 +1,12 @@
 {
   "repository": "https://github.com/marselnenaj/omarchy-yubikey",
-  "ref": "v0.3.0",
+  "ref": "v0.6.0",
   "sourceDirectory": "plugins/yubikey.polkit",
   "sha256": {
-    "manifest.json": "3d6850e56e831c3b36b7c8828f1a05017facdc2cdb1d54c6c5f3a0668b58b6cf",
-    "PolkitAgent.qml": "34a6de54648ed56f7d682fdff8e0eff7bbc57a29aaadc60f5bcbda1dda2eb80b",
+    "manifest.json": "2311172bb6ab52747f982ed2a340dcd2eccf953fa1eb3d0f70b779ba80820055",
+    "PolkitAgent.qml": "a8042a45eacbfff75bf63a18d2bfc65ddd855f834f727b0f5f5159d63b47b8d3",
     "PolkitModel.js": "30ded375095932b2571363ed0ddc04b76aa039ed8b16656fd994dba2d9eb6375",
-    "Translations.qml": "9ae2e8557276964d384648f1c65d6e0e353ef5ea45eb24b9a30bad3194c1e294",
+    "Translations.qml": "cf565bf9301bee026b0177c353c8fa8ca0a0277a9a9812a2838e2147c38f55ef",
     "Locale.js": "817da8fc3185c7c09e36d1d18fe0099be6f9af7dfb9aa7eecf6ed14d90727ea0",
     "i18n/ar.json": "6944c93c532676892890ede742c3a7146b1d6393614db250ffd5900093d61bd2",
     "i18n/bg.json": "a0bb7644a3a4eccf10e1e1192be717c3a815085ef2785963b9060f12902d8fa6",
